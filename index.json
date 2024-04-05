@@ -45,7 +45,10 @@
       "title": "seasonalWorkClothes",
       "info": {
         "data": "individualDesignService",
-        "thumbnails": ["/assets/jpg/nimcha.jpg"],
+        "thumbnails": [
+          "/assets/jpg/nimcha.jpg",
+          "/assets/jpg/nimcha-orqadan.jpg"
+        ],
         "sizes": ["s", "m", "l", "xl", "xxl"]
       }
     },
