@@ -6,7 +6,7 @@
       "mainImg": "/assets/jpg/doctor-t-shirt.jpg",
       "title": "medicalClothes",
       "info": {
-        "data:": "ourCustomers",
+        "data": "ourCustomers",
         "thumbnails": [
           "/assets/png/img1.png",
           "/assets/png/img2.png",
