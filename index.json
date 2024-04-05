@@ -21,6 +21,7 @@
     },
     {
       "id": 2,
+      "slug": "chef-clothes",
       "mainImg": "/assets/jpg/cook-t-shirt.jpg",
       "title": "chefClothes",
       "info": {
@@ -33,6 +34,228 @@
           "/assets/png/cook5.png",
           "/assets/png/cook6.png",
           "/assets/png/cook7.png"
+        ],
+        "sizes": ["s", "m", "l", "xl", "xxl"]
+      }
+    },
+    {
+      "id": 3,
+      "slug": "seasonal-workClothes",
+      "mainImg": "/assets/jpg/nimcha.jpg",
+      "title": "seasonalWorkClothes",
+      "info": {
+        "data": "individualDesignService",
+        "thumbnails": ["/assets/jpg/nimcha.jpg"],
+        "sizes": ["s", "m", "l", "xl", "xxl"]
+      }
+    },
+    {
+      "id": 4,
+      "slug": "service-clothes",
+      "mainImg": "/assets/jpg/kitchen-clothing.jpg",
+      "title": "serviceClothes",
+      "info": {
+        "data": "individualDesignService",
+        "thumbnails": [
+          "/assets/jpg/fartug1.jpg",
+          "/assets/jpg/fartug2.jpg",
+          "/assets/jpg/fartug3.jpg",
+          "/assets/png/fartug6.png",
+          "/assets/png/fartug7.png"
+        ],
+        "sizes": ["s", "m", "l", "xl", "xxl"]
+      }
+    },
+    {
+      "id": 5,
+      "slug": "service-clothes",
+      "mainImg": "/assets/jpg/women-clothing.jpg",
+      "title": "serviceClothes",
+      "info": {
+        "data": "individualDesignService",
+        "thumbnails": [
+          "/assets/jpg/tozlashKiyimi1.jpg",
+          "/assets/jpg/tozalashKiyimi2.jpg",
+          "/assets/jpg/tozalashKiyimi3.jpg",
+          "/assets/jpg/tozalashKiyimi4.jpg",
+          "/assets/jpg/tozalashKiyimi5.jpg"
+        ],
+        "sizes": ["s", "m", "l", "xl", "xxl"]
+      }
+    },
+    {
+      "id": 6,
+      "slug": "headwear",
+      "mainImg": "/assets/jpg/cap.jpg",
+      "title": "headwear",
+      "info": {
+        "data": "individualDesignService",
+        "thumbnails": [
+          "/assets/jpg/cap1.jpg",
+          "/assets/jpg/cap2.jpg",
+          "/assets/jpg/cap3.jpg",
+          "/assets/jpg/cap4.jpg",
+          "/assets/jpg/cap5.jpg",
+          "/assets/jpg/chicaco-cap.jpg"
+        ],
+        "sizes": ["s", "m", "l", "xl", "xxl"]
+      }
+    },
+    {
+      "id": 7,
+      "slug": "tShirts",
+      "mainImg": "/assets/jpg/t-shirts.jpg",
+      "title": "tShirts",
+      "info": {
+        "data": "individualDesignService",
+        "thumbnails": [
+          "/assets/jpg/tshirt1.jpg",
+          "/assets/jpg/tshirt2.jpg",
+          "/assets/jpg/tshirt3.jpg",
+          "/assets/jpg/tshirt4.jpg",
+          "/assets/jpg/tshirt5.jpg"
+        ],
+        "sizes": ["s", "m", "l", "xl", "xxl"]
+      }
+    },
+    {
+      "id": 8,
+      "slug": "snacks",
+      "mainImg": "/assets/jpg/nimchalar.jpg",
+      "title": "snacks",
+      "info": {
+        "data": "individualDesignService",
+        "thumbnails": [
+          "/assets/jpg/nimchalar.jpg",
+          "/assets/jpg/nimcha-orqadan.jpg"
+        ],
+        "sizes": ["s", "m", "l", "xl", "xxl"]
+      }
+    },
+    {
+      "id": 9,
+      "slug": "tolstovka",
+      "mainImg": "/assets/jpg/tolstovka1.jpg",
+      "title": "tolstovka",
+      "info": {
+        "data": "individualDesignService",
+        "thumbnails": [
+          "/assets/jpg/tolstovka2.jpg",
+          "/assets/jpg/tolstovka3.jpg",
+          "/assets/jpg/tolstovka4.jpg",
+          "/assets/jpg/tolstovka5.jpg"
+        ],
+        "sizes": ["s", "m", "l", "xl", "xxl"]
+      }
+    },
+    {
+      "id": 10,
+      "slug": "hudi",
+      "mainImg": "/assets/jpg/hudi1.jpg",
+      "title": "hudi",
+      "info": {
+        "data": "individualDesignService",
+        "thumbnails": [
+          "/assets/jpg/hudi2.jpg",
+          "/assets/jpg/hudi3.jpg",
+          "/assets/jpg/hudi4.jpg",
+          "/assets/jpg/chikako-vadalaska.jpg"
+        ],
+        "sizes": ["s", "m", "l", "xl", "xxl"]
+      }
+    },
+    {
+      "id": 11,
+      "slug": "aprons",
+      "mainImg": "/assets/jpg/aprons.jpg",
+      "title": "aprons",
+      "info": {
+        "data": "individualDesignService",
+        "thumbnails": [
+          "/assets/jpg/aprons2.jpg",
+          "/assets/jpg/aprons3.jpg",
+          "/assets/jpg/aprons4.jpg",
+          "/assets/jpg/aprons5.jpg"
+        ],
+        "sizes": ["s", "m", "l", "xl", "xxl"]
+      }
+    },
+    {
+      "id": 12,
+      "slug": "polo",
+      "mainImg": "/assets/jpg/polo-tshirt.jpg",
+      "title": "polo",
+      "info": {
+        "data": "individualDesignService",
+        "thumbnails": [
+          "/assets/jpg/polo2.jpg",
+          "/assets/jpg/polo3.jpg",
+          "/assets/jpg/polo4.jpg",
+          "/assets/jpg/polo5.jpg"
+        ],
+        "sizes": ["s", "m", "l", "xl", "xxl"]
+      }
+    },
+    {
+      "id": 13,
+      "slug": "jilet",
+      "mainImg": "/assets/jpg/chin-invest.jpg",
+      "title": "jilet",
+      "info": {
+        "data": "individualDesignService",
+        "thumbnails": [
+          "/assets/jpg/jilet2.jpg",
+          "/assets/jpg/jilet3.jpg",
+          "/assets/jpg/jilet4.jpg"
+        ],
+        "sizes": ["s", "m", "l", "xl", "xxl"]
+      }
+    },
+    {
+      "id": 14,
+      "slug": "svit",
+      "mainImg": "/assets/jpg/sweater.jpg",
+      "title": "svit",
+      "info": {
+        "data": "individualDesignService",
+        "thumbnails": [
+          "/assets/jpg/sweater2.jpg",
+          "/assets/jpg/sweater3.jpg",
+          "/assets/jpg/sweater4.jpg",
+          "/assets/jpg/sweater5.jpg"
+        ],
+        "sizes": ["s", "m", "l", "xl", "xxl"]
+      }
+    },
+    {
+      "id": 15,
+      "slug": "shopper",
+      "mainImg": "/assets/jpg/bag.jpg",
+      "title": "shopper",
+      "info": {
+        "data": "individualDesignService",
+        "thumbnails": [
+          "/assets/jpg/bag2.jpg",
+          "/assets/jpg/bag3.jpg",
+          "/assets/jpg/bag4.jpg",
+          "/assets/jpg/bag5.jpg"
+        ],
+        "sizes": ["s", "m", "l", "xl", "xxl"]
+      }
+    },
+    {
+      "id": 16,
+      "slug": "sports",
+      "mainImg": "/assets/jpg/sport-sweater.jpg",
+      "title": "sports",
+      "info": {
+        "data": "individualDesignService",
+        "thumbnails": [
+          "/assets/jpg/sport2.jpg",
+          "/assets/jpg/sport3.jpg",
+          "/assets/jpg/sport4.jpg",
+          "/assets/jpg/sport5.jpg",
+          "/assets/jpg/sport6.jpg"
         ],
         "sizes": ["s", "m", "l", "xl", "xxl"]
       }
