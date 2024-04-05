@@ -18,6 +18,24 @@
         ],
         "sizes": ["s", "m", "l", "xl", "xxl"]
       }
+    },
+    {
+      "id": 2,
+      "mainImg": "/assets/jpg/cook-t-shirt.jpg",
+      "title": "chefClothes",
+      "info": {
+        "data:": "individualDesignService",
+        "thumbnails": [
+          "/assets/png/cook2.png",
+          "/assets/png/cook1.png",
+          "/assets/png/cook3.png",
+          "/assets/png/cook4.png",
+          "/assets/png/cook5.png",
+          "/assets/png/cook6.png",
+          "/assets/png/cook7.png"
+        ],
+        "sizes": ["s", "m", "l", "xl", "xxl"]
+      }
     }
   ]
 }
