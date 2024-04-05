@@ -24,7 +24,7 @@
       "mainImg": "/assets/jpg/cook-t-shirt.jpg",
       "title": "chefClothes",
       "info": {
-        "data:": "individualDesignService",
+        "data": "individualDesignService",
         "thumbnails": [
           "/assets/png/cook2.png",
           "/assets/png/cook1.png",
