@@ -2,6 +2,7 @@
   "products": [
     {
       "id": 1,
+      "mainImg": "/assets/jpg/doctor-t-shirt.jpg",
       "title": "medicalClothes",
       "info": {
         "data:": "individualDesign",
@@ -14,7 +15,7 @@
           "/assets/png/img6.png",
           "/assets/png/img7.png"
         ],
-        "sizes": ["s", "m", "l", "xl", "xxl"]
+        "sizes": ["s", "m", "l", "xl","xxl" ]
       }
     }
   ]
