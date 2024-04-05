@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "slug": "medical-clothes",
+      "mainImg": "/assets/jpg/doctor-t-shirt.jpg",
+      "title": "medicalClothes",
+      "info": {
+        "data:": "individualDesign",
+        "thumbnails": [
+          "/assets/png/img1.png",
+          "/assets/png/img2.png",
+          "/assets/png/img3.png",
+          "/assets/png/img4.png",
+          "/assets/png/img5.png",
+          "/assets/png/img6.png",
+          "/assets/png/img7.png"
+        ],
+        "sizes": ["s", "m", "l", "xl", "xxl"]
+      }
+    }
+  ]
+}
