@@ -69,25 +69,9 @@
         "sizes": ["s", "m", "l", "xl", "xxl"]
       }
     },
+
     {
       "id": 5,
-      "slug": "service-clothes",
-      "mainImg": "/assets/jpg/women-clothing.jpg",
-      "title": "serviceClothes",
-      "info": {
-        "data": "individualDesignService",
-        "thumbnails": [
-          "/assets/jpg/tozlashKiyimi1.jpg",
-          "/assets/jpg/tozalashKiyimi2.jpg",
-          "/assets/jpg/tozalashKiyimi3.jpg",
-          "/assets/jpg/tozalashKiyimi4.jpg",
-          "/assets/jpg/tozalashKiyimi5.jpg"
-        ],
-        "sizes": ["s", "m", "l", "xl", "xxl"]
-      }
-    },
-    {
-      "id": 6,
       "slug": "headwear",
       "mainImg": "/assets/jpg/cap.jpg",
       "title": "headwear",
@@ -105,7 +89,7 @@
       }
     },
     {
-      "id": 7,
+      "id": 6,
       "slug": "tShirts",
       "mainImg": "/assets/jpg/t-shirts.jpg",
       "title": "tShirts",
@@ -122,7 +106,7 @@
       }
     },
     {
-      "id": 8,
+      "id": 7,
       "slug": "snacks",
       "mainImg": "/assets/jpg/nimchalar.jpg",
       "title": "snacks",
@@ -136,7 +120,7 @@
       }
     },
     {
-      "id": 9,
+      "id": 8,
       "slug": "tolstovka",
       "mainImg": "/assets/jpg/tolstovka1.jpg",
       "title": "tolstovka",
@@ -152,7 +136,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 9,
       "slug": "hudi",
       "mainImg": "/assets/jpg/hudi1.jpg",
       "title": "hudi",
@@ -168,7 +152,7 @@
       }
     },
     {
-      "id": 11,
+      "id": 10,
       "slug": "aprons",
       "mainImg": "/assets/jpg/aprons.jpg",
       "title": "aprons",
@@ -184,7 +168,7 @@
       }
     },
     {
-      "id": 12,
+      "id": 11,
       "slug": "polo",
       "mainImg": "/assets/jpg/polo-tshirt.jpg",
       "title": "polo",
@@ -200,7 +184,7 @@
       }
     },
     {
-      "id": 13,
+      "id": 12,
       "slug": "jilet",
       "mainImg": "/assets/jpg/chin-invest.jpg",
       "title": "jilet",
@@ -215,7 +199,7 @@
       }
     },
     {
-      "id": 14,
+      "id": 13,
       "slug": "svit",
       "mainImg": "/assets/jpg/sweater.jpg",
       "title": "svit",
@@ -231,7 +215,7 @@
       }
     },
     {
-      "id": 15,
+      "id": 14,
       "slug": "shopper",
       "mainImg": "/assets/jpg/bag.jpg",
       "title": "shopper",
@@ -247,7 +231,7 @@
       }
     },
     {
-      "id": 16,
+      "id": 15,
       "slug": "sports",
       "mainImg": "/assets/jpg/sport-sweater.jpg",
       "title": "sports",
